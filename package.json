@@ -32,8 +32,8 @@
         "@pedroslopez/moduleraid": "5.0.2",
         "fluent-ffmpeg": "2.1.2",
         "mime": "3.0.0",
-        "node-fetch": "2.6.5",
-        "node-webpmux": "3.1.0",
+        "node-fetch": "3.3.2",
+        "node-webpmux": "3.2.0",
         "puppeteer": "21.7.0"
     },
     "devDependencies": {
